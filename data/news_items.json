@@ -1,0 +1,2937 @@
+[
+  {
+    "ItemId": "news_001",
+    "Labels": [
+      "ai",
+      "startup",
+      "india",
+      "semiconductor",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T09:25:00Z",
+    "Comment": "Indian AI semiconductor startup raises $120M Series B",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_002",
+    "Labels": [
+      "ai",
+      "technology",
+      "ml",
+      "openai"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T00:19:00Z",
+    "Comment": "OpenAI releases GPT-5 with improved reasoning capabilities",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_003",
+    "Labels": [
+      "ai",
+      "india",
+      "technology",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T06:27:00Z",
+    "Comment": "India emerges as top AI talent destination in Asia",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_004",
+    "Labels": [
+      "cloud",
+      "technology",
+      "quantum"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T19:41:00Z",
+    "Comment": "Cloud giants race to deploy quantum computing infrastructure",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_005",
+    "Labels": [
+      "ai",
+      "ml",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T14:28:00Z",
+    "Comment": "Deep learning breakthrough reduces model training costs 80%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_006",
+    "Labels": [
+      "startup",
+      "india",
+      "technology",
+      "investment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T21:13:00Z",
+    "Comment": "Bengaluru startup ecosystem attracts $2B in Q2 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_007",
+    "Labels": [
+      "ai",
+      "biotech",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T15:50:00Z",
+    "Comment": "AI-powered drug discovery firm IPOs on NSE",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_008",
+    "Labels": [
+      "ai",
+      "india",
+      "policy",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T21:05:00Z",
+    "Comment": "Government launches $5B national AI mission",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_009",
+    "Labels": [
+      "ai",
+      "technology",
+      "hardware",
+      "meta"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T16:42:00Z",
+    "Comment": "Meta unveils AR glasses with AI assistant built-in",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_010",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "technology",
+      "manufacturing"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-21T19:21:00Z",
+    "Comment": "India's semiconductor fab receives production approval",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_011",
+    "Labels": [
+      "ai",
+      "ml",
+      "technology",
+      "software"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T07:43:00Z",
+    "Comment": "New large language model beats GPT-4 on coding benchmarks",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_012",
+    "Labels": [
+      "ai",
+      "technology",
+      "automotive",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T07:51:00Z",
+    "Comment": "Autonomous vehicle startup partners with major automaker",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_013",
+    "Labels": [
+      "ai",
+      "india",
+      "policy",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T04:01:00Z",
+    "Comment": "AI regulation framework proposed by Indian Parliament",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_014",
+    "Labels": [
+      "robotics",
+      "ai",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T07:30:00Z",
+    "Comment": "Robotics firm deploys 10,000 warehouse bots across India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_015",
+    "Labels": [
+      "semiconductor",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T02:29:00Z",
+    "Comment": "Chip design startup from IIT raises pre-IPO funding",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_016",
+    "Labels": [
+      "trade",
+      "india",
+      "global-trade",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T20:36:00Z",
+    "Comment": "India-EU free trade agreement enters final negotiation phase",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_017",
+    "Labels": [
+      "trade",
+      "textile",
+      "india",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T22:44:00Z",
+    "Comment": "Indian textile exports hit record $18B in FY2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_018",
+    "Labels": [
+      "logistics",
+      "trade",
+      "india",
+      "supply-chain"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T15:25:00Z",
+    "Comment": "New logistics corridor cuts India-Middle East transit time",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_019",
+    "Labels": [
+      "trade",
+      "export",
+      "manufacturing",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T04:41:00Z",
+    "Comment": "Export credit scheme extended for MSME manufacturers",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_020",
+    "Labels": [
+      "trade",
+      "textile",
+      "india",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T00:57:00Z",
+    "Comment": "India surpasses China as top garment exporter to EU",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_021",
+    "Labels": [
+      "chemicals",
+      "trade",
+      "export",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T13:14:00Z",
+    "Comment": "Chemical industry sees 35% export growth in H1 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_022",
+    "Labels": [
+      "trade",
+      "india",
+      "global-trade",
+      "africa"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T22:33:00Z",
+    "Comment": "India-Africa trade summit announces $10B investment pledge",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_023",
+    "Labels": [
+      "solar",
+      "renewable",
+      "export",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T01:35:00Z",
+    "Comment": "Solar panel export opportunity widens as US tariff eases",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_024",
+    "Labels": [
+      "manufacturing",
+      "trade",
+      "supply-chain",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T03:29:00Z",
+    "Comment": "Global supply chain realignment benefits Indian manufacturers",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_025",
+    "Labels": [
+      "b2b",
+      "trade",
+      "startup",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-05T14:42:00Z",
+    "Comment": "B2B e-commerce platform for exports raises Series C",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_026",
+    "Labels": [
+      "sports",
+      "cricket",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T17:38:00Z",
+    "Comment": "India wins Test series against Australia 3-1",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_027",
+    "Labels": [
+      "sports",
+      "cricket",
+      "ipl",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T14:39:00Z",
+    "Comment": "IPL 2026 final draws record 100M viewers",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_028",
+    "Labels": [
+      "sports",
+      "athletics",
+      "india",
+      "olympics"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T13:53:00Z",
+    "Comment": "Neeraj Chopra defends javelin world title in Paris",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_029",
+    "Labels": [
+      "sports",
+      "football",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T14:57:00Z",
+    "Comment": "India qualifies for 2026 FIFA World Cup",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_030",
+    "Labels": [
+      "sports",
+      "badminton",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T23:55:00Z",
+    "Comment": "PV Sindhu announces comeback after injury recovery",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_031",
+    "Labels": [
+      "sports",
+      "cricket",
+      "ipl",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T14:16:00Z",
+    "Comment": "Indian Premier League expansion adds two new teams",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_032",
+    "Labels": [
+      "sports",
+      "chess",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T20:17:00Z",
+    "Comment": "Chess Olympiad 2026: India wins gold in open category",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_033",
+    "Labels": [
+      "sports",
+      "cricket",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T15:40:00Z",
+    "Comment": "Rohit Sharma breaks Sachin's ODI century record",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_034",
+    "Labels": [
+      "sports",
+      "kabaddi",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T08:28:00Z",
+    "Comment": "Pro Kabaddi League attracts global broadcast deal",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_035",
+    "Labels": [
+      "sports",
+      "hockey",
+      "india",
+      "olympics"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T22:18:00Z",
+    "Comment": "Indian hockey team wins Asian Games gold",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_036",
+    "Labels": [
+      "finance",
+      "economy",
+      "india",
+      "banking"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T08:21:00Z",
+    "Comment": "RBI holds repo rate at 5.75% amid stable inflation",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_037",
+    "Labels": [
+      "markets",
+      "finance",
+      "india",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T17:05:00Z",
+    "Comment": "Sensex hits 100,000 milestone for first time",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_038",
+    "Labels": [
+      "investment",
+      "india",
+      "economy",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-05T04:14:00Z",
+    "Comment": "Foreign direct investment in India reaches $85B in 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_039",
+    "Labels": [
+      "economy",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T22:09:00Z",
+    "Comment": "India GDP growth forecast raised to 7.8% for FY26",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_040",
+    "Labels": [
+      "startup",
+      "india",
+      "business",
+      "investment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T06:04:00Z",
+    "Comment": "Startup unicorn count reaches 200 in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_041",
+    "Labels": [
+      "finance",
+      "india",
+      "technology",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T13:21:00Z",
+    "Comment": "Digital payments in India cross $500B monthly volume",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_042",
+    "Labels": [
+      "finance",
+      "india",
+      "investment",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T14:26:00Z",
+    "Comment": "Insurance sector opens to 100% FDI",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_043",
+    "Labels": [
+      "finance",
+      "environment",
+      "investment",
+      "markets"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T06:53:00Z",
+    "Comment": "Green bond market grows 120% year-on-year",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_044",
+    "Labels": [
+      "finance",
+      "india",
+      "investment",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T12:57:00Z",
+    "Comment": "India's sovereign wealth fund eyes overseas acquisitions",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_045",
+    "Labels": [
+      "economy",
+      "india",
+      "policy",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T22:01:00Z",
+    "Comment": "Budget 2026 boosts infrastructure allocation 30%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_046",
+    "Labels": [
+      "policy",
+      "global-trade",
+      "economy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T12:30:00Z",
+    "Comment": "G20 nations agree on global minimum corporate tax",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_047",
+    "Labels": [
+      "environment",
+      "policy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T11:19:00Z",
+    "Comment": "UN climate summit sets new 1.4C warming target",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_048",
+    "Labels": [
+      "india",
+      "technology",
+      "policy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T13:34:00Z",
+    "Comment": "US-India tech partnership expands to defense electronics",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_049",
+    "Labels": [
+      "environment",
+      "policy",
+      "world",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T19:57:00Z",
+    "Comment": "EU launches \u20ac200B green industrial plan",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_050",
+    "Labels": [
+      "investment",
+      "india",
+      "world",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T15:14:00Z",
+    "Comment": "Middle East sovereign funds pivot to India infrastructure",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_051",
+    "Labels": [
+      "entertainment",
+      "india",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T13:31:00Z",
+    "Comment": "Bollywood film crosses $200M worldwide opening weekend",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_052",
+    "Labels": [
+      "entertainment",
+      "technology",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T12:21:00Z",
+    "Comment": "Indian streaming platforms merge to form major OTT giant",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_053",
+    "Labels": [
+      "health",
+      "ai",
+      "startup",
+      "india",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T21:51:00Z",
+    "Comment": "Health startup launches AI-powered diagnostics app",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_054",
+    "Labels": [
+      "lifestyle",
+      "health",
+      "india",
+      "travel"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T23:10:00Z",
+    "Comment": "Yoga tourism in India grows 45% in first half of 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_055",
+    "Labels": [
+      "food",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T04:39:00Z",
+    "Comment": "India food-tech startup raises $50M for cloud kitchens",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_056",
+    "Labels": [
+      "fintech",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T00:58:00Z",
+    "Comment": "Indian fintech startup launches cross-border payments",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_057",
+    "Labels": [
+      "technology",
+      "india",
+      "telecom"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T18:36:00Z",
+    "Comment": "5G rollout reaches 500 Indian cities",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_058",
+    "Labels": [
+      "technology",
+      "india",
+      "automotive",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T00:05:00Z",
+    "Comment": "EV adoption in India doubles in Q2 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_059",
+    "Labels": [
+      "technology",
+      "india",
+      "space"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-21T13:08:00Z",
+    "Comment": "India launches second moon mission Chandrayaan-4",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_060",
+    "Labels": [
+      "technology",
+      "india",
+      "security"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T05:03:00Z",
+    "Comment": "Cybersecurity investment in India triples post-breach",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_061",
+    "Labels": [
+      "startup",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T12:20:00Z",
+    "Comment": "Women entrepreneurship index ranks India 12th globally",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_062",
+    "Labels": [
+      "renewable",
+      "solar",
+      "india",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T14:20:00Z",
+    "Comment": "Renewable energy capacity in India hits 500GW milestone",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_063",
+    "Labels": [
+      "pharma",
+      "india",
+      "export",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T12:17:00Z",
+    "Comment": "India's pharma exports cross $30B in FY26",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_064",
+    "Labels": [
+      "finance",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T08:53:00Z",
+    "Comment": "Digital rupee transactions surpass 10M daily",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_065",
+    "Labels": [
+      "startup",
+      "india",
+      "technology",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T15:01:00Z",
+    "Comment": "Mumbai emerges as Asia's third-largest startup hub",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_066",
+    "Labels": [
+      "ai",
+      "education",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T01:22:00Z",
+    "Comment": "AI tutoring platform reduces dropout rates in Bihar",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_067",
+    "Labels": [
+      "sports",
+      "india",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T20:04:00Z",
+    "Comment": "India wins bid to host 2030 Commonwealth Games",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_068",
+    "Labels": [
+      "sports",
+      "technology",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-21T01:48:00Z",
+    "Comment": "E-sports becomes official medal event in Asian Games",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_069",
+    "Labels": [
+      "technology",
+      "india",
+      "ai",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T07:12:00Z",
+    "Comment": "Indian Navy deploys AI-guided patrol vessel",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_070",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "technology",
+      "global-trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T19:09:00Z",
+    "Comment": "Global chip shortage eases as India fab comes online",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_071",
+    "Labels": [
+      "trade",
+      "india",
+      "agriculture"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T04:30:00Z",
+    "Comment": "Cotton prices surge 20% on poor monsoon forecast",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_072",
+    "Labels": [
+      "india",
+      "technology",
+      "infrastructure"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T03:36:00Z",
+    "Comment": "India-Japan bullet train project 60% complete",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_073",
+    "Labels": [
+      "food",
+      "technology",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T14:44:00Z",
+    "Comment": "Online grocery delivery market hits $15B in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_074",
+    "Labels": [
+      "space",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T11:10:00Z",
+    "Comment": "India's space startup ecosystem reaches 150 companies",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_075",
+    "Labels": [
+      "business",
+      "india",
+      "economy",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T19:47:00Z",
+    "Comment": "World Bank upgrades India's ease-of-doing-business rank",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_076",
+    "Labels": [
+      "solar",
+      "renewable",
+      "india",
+      "energy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T03:49:00Z",
+    "Comment": "Solar energy cheaper than coal for the first time in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_077",
+    "Labels": [
+      "ai",
+      "agriculture",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T09:06:00Z",
+    "Comment": "AI-based crop monitoring cuts farmer losses 40%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_078",
+    "Labels": [
+      "sports",
+      "cricket",
+      "ipl",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T00:59:00Z",
+    "Comment": "IPL media rights sold for record $6B",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_079",
+    "Labels": [
+      "trade",
+      "india",
+      "export",
+      "manufacturing"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T18:43:00Z",
+    "Comment": "India's defence exports hit $3B \u2014 a historic record",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_080",
+    "Labels": [
+      "finance",
+      "india",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T12:45:00Z",
+    "Comment": "Microfinance sector sees 25% credit growth in Q1 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_081",
+    "Labels": [
+      "india",
+      "technology",
+      "policy",
+      "infrastructure"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T02:37:00Z",
+    "Comment": "India announces 100 new smart city projects",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_082",
+    "Labels": [
+      "health",
+      "technology",
+      "india",
+      "ai"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T20:15:00Z",
+    "Comment": "Robotic surgery adoption triples in Indian hospitals",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_083",
+    "Labels": [
+      "textile",
+      "india",
+      "manufacturing",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T22:49:00Z",
+    "Comment": "Textile park in Gujarat creates 50,000 jobs",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_084",
+    "Labels": [
+      "education",
+      "technology",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T21:38:00Z",
+    "Comment": "EdTech platform surpasses 50M learners in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_085",
+    "Labels": [
+      "technology",
+      "india",
+      "environment",
+      "renewable"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T18:50:00Z",
+    "Comment": "India's first hydrogen-powered bus fleet launches in Pune",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_086",
+    "Labels": [
+      "textile",
+      "trade",
+      "india",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T11:34:00Z",
+    "Comment": "Global fashion brands source 30% from India in 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_087",
+    "Labels": [
+      "trade",
+      "india",
+      "logistics",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T21:23:00Z",
+    "Comment": "India customs modernisation cuts clearance time to 4 hours",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_088",
+    "Labels": [
+      "finance",
+      "technology",
+      "india",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T16:41:00Z",
+    "Comment": "Crypto regulatory clarity boosts Indian exchange volumes",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_089",
+    "Labels": [
+      "ai",
+      "india",
+      "technology",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T00:54:00Z",
+    "Comment": "India's generative AI market to reach $17B by 2028",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_090",
+    "Labels": [
+      "sports",
+      "india",
+      "olympics"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T15:06:00Z",
+    "Comment": "Olympic medal hopeful programme supports 500 athletes",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_091",
+    "Labels": [
+      "logistics",
+      "india",
+      "trade",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T11:40:00Z",
+    "Comment": "National logistics policy framework finalised",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_092",
+    "Labels": [
+      "technology",
+      "india",
+      "export",
+      "semiconductor"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T22:09:00Z",
+    "Comment": "Tamil Nadu becomes India's top electronics exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_093",
+    "Labels": [
+      "sports",
+      "football",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T05:46:00Z",
+    "Comment": "Football viewership in India grows 60% year-on-year",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_094",
+    "Labels": [
+      "health",
+      "technology",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T20:17:00Z",
+    "Comment": "Telemedicine consultations hit 2M per day in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_095",
+    "Labels": [
+      "technology",
+      "india",
+      "world",
+      "energy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T17:49:00Z",
+    "Comment": "India joins elite club of nuclear fusion research nations",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_096",
+    "Labels": [
+      "startup",
+      "india",
+      "technology",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T14:27:00Z",
+    "Comment": "B2B SaaS startup from Hyderabad goes public on Nasdaq",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_097",
+    "Labels": [
+      "environment",
+      "india",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T08:20:00Z",
+    "Comment": "India's coral reef restoration project wins UN award",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_098",
+    "Labels": [
+      "technology",
+      "india",
+      "space"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T02:17:00Z",
+    "Comment": "ISRO satellite internet service rivals Starlink speeds",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_099",
+    "Labels": [
+      "agriculture",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T07:48:00Z",
+    "Comment": "Agri startup raises $30M for precision farming platform",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_100",
+    "Labels": [
+      "ai",
+      "policy",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T18:39:00Z",
+    "Comment": "India tightens data localisation laws for AI companies",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_101",
+    "Labels": [
+      "technology",
+      "india",
+      "automotive",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T12:21:00Z",
+    "Comment": "Electric two-wheeler sales cross 1M units per month",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_102",
+    "Labels": [
+      "food",
+      "india",
+      "lifestyle",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T15:54:00Z",
+    "Comment": "Indian restaurant chain expands to 20 countries",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_103",
+    "Labels": [
+      "health",
+      "india",
+      "lifestyle",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T05:31:00Z",
+    "Comment": "Mental health app usage rises 80% among Indian youth",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_104",
+    "Labels": [
+      "technology",
+      "trade",
+      "india",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T11:51:00Z",
+    "Comment": "India and UAE sign digital economy partnership",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_105",
+    "Labels": [
+      "india",
+      "world",
+      "environment",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T10:17:00Z",
+    "Comment": "Deep sea mining rights granted to Indian firm",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_106",
+    "Labels": [
+      "startup",
+      "india",
+      "technology",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T22:56:00Z",
+    "Comment": "Bangalore overtakes Singapore in startup density",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_107",
+    "Labels": [
+      "sports",
+      "india",
+      "policy",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T17:00:00Z",
+    "Comment": "Sports betting legalised in three Indian states",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_108",
+    "Labels": [
+      "ai",
+      "health",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T06:05:00Z",
+    "Comment": "AI-designed drug enters Phase 3 trials in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_109",
+    "Labels": [
+      "technology",
+      "india",
+      "ai",
+      "semiconductor"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T23:26:00Z",
+    "Comment": "India's fastest supercomputer ranks 5th globally",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_110",
+    "Labels": [
+      "india",
+      "infrastructure",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T17:48:00Z",
+    "Comment": "New airport opens in Tier-2 city Indore",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_111",
+    "Labels": [
+      "trade",
+      "india",
+      "export",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-08T22:30:00Z",
+    "Comment": "Artisan craft exports boosted by government scheme",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_112",
+    "Labels": [
+      "sports",
+      "athletics",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-21T22:31:00Z",
+    "Comment": "India wins bronze at World Athletics Championship",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_113",
+    "Labels": [
+      "startup",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T00:05:00Z",
+    "Comment": "Startup accelerator cohort 2026 includes 40% women founders",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_114",
+    "Labels": [
+      "ai",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T07:25:00Z",
+    "Comment": "AI content moderation startup raises $25M",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_115",
+    "Labels": [
+      "business",
+      "india",
+      "finance",
+      "economy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T07:19:00Z",
+    "Comment": "India overtakes UK in total billionaire count",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_116",
+    "Labels": [
+      "health",
+      "ai",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T18:23:00Z",
+    "Comment": "Healthcare AI reduces misdiagnosis rates by 35%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_117",
+    "Labels": [
+      "renewable",
+      "energy",
+      "india",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T17:33:00Z",
+    "Comment": "Green hydrogen project inaugurated in Rajasthan",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_118",
+    "Labels": [
+      "trade",
+      "india",
+      "export",
+      "food"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-12T13:47:00Z",
+    "Comment": "India's fishery exports cross $10B",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_119",
+    "Labels": [
+      "education",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T10:22:00Z",
+    "Comment": "Online education platform raises $100M Series D",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_120",
+    "Labels": [
+      "trade",
+      "india",
+      "global-trade",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T14:17:00Z",
+    "Comment": "India-Vietnam trade ties deepen with new MoU",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_121",
+    "Labels": [
+      "india",
+      "infrastructure",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T08:14:00Z",
+    "Comment": "PM inaugurates world's longest rail tunnel",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_122",
+    "Labels": [
+      "sports",
+      "cricket",
+      "india",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T23:12:00Z",
+    "Comment": "Cricket World Cup 2026 draws 1 billion viewers globally",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_123",
+    "Labels": [
+      "economy",
+      "india",
+      "finance"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T03:47:00Z",
+    "Comment": "Inflation falls to 3.2% \u2014 4-year low in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_124",
+    "Labels": [
+      "health",
+      "trade",
+      "india",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T22:11:00Z",
+    "Comment": "Medical device exports from India double in 2 years",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_125",
+    "Labels": [
+      "technology",
+      "entertainment",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T06:47:00Z",
+    "Comment": "India's gaming industry to be worth $7B by 2027",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_126",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T08:46:00Z",
+    "Comment": "Semiconductor design talent pool in India reaches 100,000",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_127",
+    "Labels": [
+      "lifestyle",
+      "india",
+      "policy",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T16:38:00Z",
+    "Comment": "India opens borders to digital nomad visa category",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_128",
+    "Labels": [
+      "india",
+      "infrastructure",
+      "economy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T03:53:00Z",
+    "Comment": "World Bank funds $2B India urban mobility project",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_129",
+    "Labels": [
+      "ai",
+      "agriculture",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T09:14:00Z",
+    "Comment": "AI-powered weather forecasting cuts crop loss in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_130",
+    "Labels": [
+      "energy",
+      "india",
+      "technology",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-12T05:19:00Z",
+    "Comment": "India's first commercial thorium reactor approved",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_131",
+    "Labels": [
+      "trade",
+      "india",
+      "export",
+      "food"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T22:34:00Z",
+    "Comment": "Tea exports from Assam hit record high",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_132",
+    "Labels": [
+      "biotech",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-05T08:02:00Z",
+    "Comment": "Biotech startups in Hyderabad triple in 3 years",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_133",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "technology",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T17:18:00Z",
+    "Comment": "India hosts inaugural Global Semiconductor Summit",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_134",
+    "Labels": [
+      "finance",
+      "india",
+      "ai",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T04:40:00Z",
+    "Comment": "SEBI introduces AI-based market surveillance system",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_135",
+    "Labels": [
+      "sports",
+      "india",
+      "olympics",
+      "education"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T03:55:00Z",
+    "Comment": "National sports university produces first Olympic medallist",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_136",
+    "Labels": [
+      "technology",
+      "india",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T18:18:00Z",
+    "Comment": "Rural broadband scheme connects 200,000 villages",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_137",
+    "Labels": [
+      "environment",
+      "finance",
+      "india",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T15:28:00Z",
+    "Comment": "Carbon credit market launched on BSE",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_138",
+    "Labels": [
+      "technology",
+      "india",
+      "quantum",
+      "ai"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T05:03:00Z",
+    "Comment": "India's first quantum internet pilot goes live in Delhi",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_139",
+    "Labels": [
+      "technology",
+      "india",
+      "manufacturing",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T15:07:00Z",
+    "Comment": "Consumer electronics imports fall as local brands grow",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_140",
+    "Labels": [
+      "food",
+      "india",
+      "lifestyle",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T12:31:00Z",
+    "Comment": "Indian chef wins Michelin star in London",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_141",
+    "Labels": [
+      "ai",
+      "policy",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T18:40:00Z",
+    "Comment": "India launches AI safety research institute",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_142",
+    "Labels": [
+      "food",
+      "trade",
+      "india",
+      "export",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T01:09:00Z",
+    "Comment": "Organic produce exports from India grow 55%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_143",
+    "Labels": [
+      "finance",
+      "india",
+      "technology",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-05T18:19:00Z",
+    "Comment": "Stock market regulator approves tokenised securities",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_144",
+    "Labels": [
+      "trade",
+      "india",
+      "technology",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T07:07:00Z",
+    "Comment": "India-UK digital trade corridor operational from July",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_145",
+    "Labels": [
+      "renewable",
+      "india",
+      "energy",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T13:38:00Z",
+    "Comment": "Maharashtra leads states in renewable energy output",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_146",
+    "Labels": [
+      "ai",
+      "india",
+      "technology",
+      "finance"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T19:14:00Z",
+    "Comment": "AI chatbot resolves 70% of Indian tax queries",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_147",
+    "Labels": [
+      "sports",
+      "kabaddi",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T12:28:00Z",
+    "Comment": "Kabaddi World Cup: India wins sixth consecutive title",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_148",
+    "Labels": [
+      "space",
+      "india",
+      "technology",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-15T09:55:00Z",
+    "Comment": "Indian space tourism flight scheduled for 2027",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_149",
+    "Labels": [
+      "b2b",
+      "startup",
+      "india",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T13:19:00Z",
+    "Comment": "B2B marketplace for industrial goods raises $80M",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_150",
+    "Labels": [
+      "technology",
+      "india",
+      "finance"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T19:03:00Z",
+    "Comment": "India's telematics insurance market triples",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_151",
+    "Labels": [
+      "ai",
+      "education",
+      "india",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T23:06:00Z",
+    "Comment": "National AI curriculum rolled out in schools",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_152",
+    "Labels": [
+      "ai",
+      "entertainment",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-07T20:13:00Z",
+    "Comment": "Film industry adopts AI for VFX; cost drops 60%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_153",
+    "Labels": [
+      "startup",
+      "india",
+      "policy",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T21:05:00Z",
+    "Comment": "Tier-2 startup cities get \u20b9500Cr government boost",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_154",
+    "Labels": [
+      "lifestyle",
+      "health",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T07:11:00Z",
+    "Comment": "Yoga app surpasses 30M users globally",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_155",
+    "Labels": [
+      "technology",
+      "india",
+      "world",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T02:10:00Z",
+    "Comment": "India signs defence electronics deal with Japan",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_156",
+    "Labels": [
+      "textile",
+      "environment",
+      "startup",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T13:28:00Z",
+    "Comment": "Textile recycling startup raises $15M in seed round",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_157",
+    "Labels": [
+      "economy",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T19:30:00Z",
+    "Comment": "India's unemployment rate drops to 4.2%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_158",
+    "Labels": [
+      "ai",
+      "technology",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T01:14:00Z",
+    "Comment": "Open source AI framework from IISc gains global traction",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_159",
+    "Labels": [
+      "health",
+      "india",
+      "technology",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T22:18:00Z",
+    "Comment": "Digital health record system now live in 28 states",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_160",
+    "Labels": [
+      "automotive",
+      "india",
+      "export",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T14:04:00Z",
+    "Comment": "India automotive exports cross $25B milestone",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_161",
+    "Labels": [
+      "technology",
+      "india",
+      "energy",
+      "infrastructure"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T07:59:00Z",
+    "Comment": "Smart meter rollout: 100M households connected",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_162",
+    "Labels": [
+      "technology",
+      "startup",
+      "india",
+      "ai"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T20:37:00Z",
+    "Comment": "Anti-drone tech startup from DRDO spin-off raises $40M",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_163",
+    "Labels": [
+      "food",
+      "trade",
+      "india",
+      "export"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T06:27:00Z",
+    "Comment": "India's coffee exports find premium buyers in Scandinavia",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_164",
+    "Labels": [
+      "india",
+      "lifestyle",
+      "economy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T17:14:00Z",
+    "Comment": "India ranked top 10 globally for quality of life improvements",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_165",
+    "Labels": [
+      "technology",
+      "india",
+      "startup",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-21T04:58:00Z",
+    "Comment": "Electric aircraft startup targets regional routes in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_166",
+    "Labels": [
+      "agriculture",
+      "finance",
+      "india",
+      "startup"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T04:04:00Z",
+    "Comment": "Agri-fintech bridges credit gap for 5M smallholders",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_167",
+    "Labels": [
+      "policy",
+      "india",
+      "technology",
+      "world",
+      "trade"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T05:50:00Z",
+    "Comment": "India wins data localisation dispute at WTO",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_168",
+    "Labels": [
+      "technology",
+      "india",
+      "startup",
+      "logistics"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T19:47:00Z",
+    "Comment": "Drone delivery reaches 50,000 pincodes in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_169",
+    "Labels": [
+      "startup",
+      "india",
+      "finance",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T09:28:00Z",
+    "Comment": "IPO pipeline for FY27 includes 60 tech companies",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_170",
+    "Labels": [
+      "lifestyle",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-04T14:44:00Z",
+    "Comment": "Global luxury brands expand India presence significantly",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_171",
+    "Labels": [
+      "health",
+      "technology",
+      "india",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-10T22:25:00Z",
+    "Comment": "Wearable health device market in India grows 90%",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_172",
+    "Labels": [
+      "trade",
+      "india",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T16:34:00Z",
+    "Comment": "India MSME export council signs deal with Amazon Global",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_173",
+    "Labels": [
+      "agriculture",
+      "india",
+      "world",
+      "environment"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T14:05:00Z",
+    "Comment": "Kerala model of community farming inspires 10 nations",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_174",
+    "Labels": [
+      "ai",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T01:56:00Z",
+    "Comment": "AI-based legal assistant passes bar exam in India",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_175",
+    "Labels": [
+      "sports",
+      "athletics",
+      "india",
+      "olympics"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T23:20:00Z",
+    "Comment": "Indian sprinter runs sub-10s 100m for first time",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_176",
+    "Labels": [
+      "finance",
+      "india",
+      "economy",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-20T08:01:00Z",
+    "Comment": "Nirmala Sitharaman presents third consecutive budget surplus",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_177",
+    "Labels": [
+      "logistics",
+      "india",
+      "trade",
+      "food"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T07:43:00Z",
+    "Comment": "India's cold chain infrastructure investment hits $3B",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_178",
+    "Labels": [
+      "ai",
+      "solar",
+      "india",
+      "energy",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-19T18:01:00Z",
+    "Comment": "AI-powered solar grid management saves \u20b92,000Cr",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_179",
+    "Labels": [
+      "entertainment",
+      "india",
+      "technology",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T08:36:00Z",
+    "Comment": "Indian video game wins BAFTA award",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_180",
+    "Labels": [
+      "sports",
+      "lifestyle",
+      "india"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T05:30:00Z",
+    "Comment": "Padel tennis courts boom across Indian metros",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_181",
+    "Labels": [
+      "technology",
+      "india",
+      "environment",
+      "infrastructure"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-17T20:28:00Z",
+    "Comment": "India's largest electric bus fleet deployed in Delhi",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_182",
+    "Labels": [
+      "agriculture",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-09T05:37:00Z",
+    "Comment": "Precision agriculture startup partners with 1M farmers",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_183",
+    "Labels": [
+      "environment",
+      "india",
+      "trade",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-14T20:52:00Z",
+    "Comment": "India launches carbon border adjustment mechanism",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_184",
+    "Labels": [
+      "sports",
+      "cricket",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T02:30:00Z",
+    "Comment": "Cricket streaming rights spark bidding war among OTTs",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_185",
+    "Labels": [
+      "world",
+      "india",
+      "environment",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-12T13:21:00Z",
+    "Comment": "Indian diplomat heads UN climate change committee",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_186",
+    "Labels": [
+      "ai",
+      "technology",
+      "india",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T21:06:00Z",
+    "Comment": "FMCG giant launches AI-personalised product lines",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_187",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "education",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-06T10:26:00Z",
+    "Comment": "Microchip design school opens in Mysore",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_188",
+    "Labels": [
+      "environment",
+      "india",
+      "policy",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-23T15:18:00Z",
+    "Comment": "India's carbon neutrality target moved to 2045",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_189",
+    "Labels": [
+      "startup",
+      "india",
+      "technology",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-22T12:52:00Z",
+    "Comment": "Social commerce startup hits $1B GMV in 12 months",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_190",
+    "Labels": [
+      "technology",
+      "india",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T01:29:00Z",
+    "Comment": "PM unveils 10-year digital infrastructure master plan",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_191",
+    "Labels": [
+      "entertainment",
+      "india",
+      "lifestyle",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-03T10:16:00Z",
+    "Comment": "Indian hip-hop artist wins Grammy for first time",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_192",
+    "Labels": [
+      "food",
+      "india",
+      "business",
+      "lifestyle"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-11T03:49:00Z",
+    "Comment": "Global food brands reformulate for Indian palate",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_193",
+    "Labels": [
+      "economy",
+      "india",
+      "world",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-13T16:52:00Z",
+    "Comment": "India surpasses Germany as world's 3rd largest economy",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_194",
+    "Labels": [
+      "trade",
+      "india",
+      "world",
+      "policy"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-01T21:55:00Z",
+    "Comment": "Trade facilitation index: India climbs to 8th globally",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_195",
+    "Labels": [
+      "health",
+      "india",
+      "technology",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-18T14:26:00Z",
+    "Comment": "New drug from Indian lab targets drug-resistant TB",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_196",
+    "Labels": [
+      "ai",
+      "startup",
+      "india",
+      "technology"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-02T06:33:00Z",
+    "Comment": "AI startup builds real-time sign language interpreter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_197",
+    "Labels": [
+      "lifestyle",
+      "india",
+      "travel",
+      "world"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-12T19:48:00Z",
+    "Comment": "Heritage tourism surges: 50M visits to monuments in H1",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "news_198",
+    "Labels": [
+      "technology",
+      "india",
+      "export",
+      "business"
+    ],
+    "Categories": [
+      "news"
+    ],
+    "Timestamp": "2026-06-16T20:28:00Z",
+    "Comment": "India's IT services export outlook raised to $320B",
+    "IsHidden": false
+  }
+]

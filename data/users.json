@@ -1,0 +1,1069 @@
+[
+  {
+    "UserId": "u_001",
+    "Labels": [
+      "ai",
+      "cloud",
+      "startup"
+    ],
+    "Comment": "Tech enthusiast #1"
+  },
+  {
+    "UserId": "u_002",
+    "Labels": [
+      "india",
+      "technology",
+      "cloud",
+      "ai"
+    ],
+    "Comment": "Tech enthusiast #2"
+  },
+  {
+    "UserId": "u_003",
+    "Labels": [
+      "semiconductor",
+      "ai",
+      "software"
+    ],
+    "Comment": "Tech enthusiast #3"
+  },
+  {
+    "UserId": "u_004",
+    "Labels": [
+      "india",
+      "technology",
+      "ml"
+    ],
+    "Comment": "Tech enthusiast #4"
+  },
+  {
+    "UserId": "u_005",
+    "Labels": [
+      "india",
+      "cloud",
+      "semiconductor"
+    ],
+    "Comment": "Tech enthusiast #5"
+  },
+  {
+    "UserId": "u_006",
+    "Labels": [
+      "india",
+      "software",
+      "ml",
+      "startup",
+      "ai",
+      "semiconductor"
+    ],
+    "Comment": "Tech enthusiast #6"
+  },
+  {
+    "UserId": "u_007",
+    "Labels": [
+      "cloud",
+      "startup",
+      "technology",
+      "software",
+      "semiconductor",
+      "ai"
+    ],
+    "Comment": "Tech enthusiast #7"
+  },
+  {
+    "UserId": "u_008",
+    "Labels": [
+      "semiconductor",
+      "ai",
+      "startup"
+    ],
+    "Comment": "Tech enthusiast #8"
+  },
+  {
+    "UserId": "u_009",
+    "Labels": [
+      "ml",
+      "semiconductor",
+      "ai",
+      "india",
+      "cloud"
+    ],
+    "Comment": "Tech enthusiast #9"
+  },
+  {
+    "UserId": "u_010",
+    "Labels": [
+      "technology",
+      "ml",
+      "startup",
+      "semiconductor",
+      "cloud",
+      "india"
+    ],
+    "Comment": "Tech enthusiast #10"
+  },
+  {
+    "UserId": "u_011",
+    "Labels": [
+      "technology",
+      "ai",
+      "cloud",
+      "software"
+    ],
+    "Comment": "Tech enthusiast #11"
+  },
+  {
+    "UserId": "u_012",
+    "Labels": [
+      "technology",
+      "semiconductor",
+      "software",
+      "ai",
+      "india"
+    ],
+    "Comment": "Tech enthusiast #12"
+  },
+  {
+    "UserId": "u_013",
+    "Labels": [
+      "software",
+      "cloud",
+      "startup",
+      "technology",
+      "semiconductor"
+    ],
+    "Comment": "Tech enthusiast #13"
+  },
+  {
+    "UserId": "u_014",
+    "Labels": [
+      "india",
+      "cloud",
+      "startup",
+      "ai",
+      "technology"
+    ],
+    "Comment": "Tech enthusiast #14"
+  },
+  {
+    "UserId": "u_015",
+    "Labels": [
+      "startup",
+      "india",
+      "semiconductor",
+      "software"
+    ],
+    "Comment": "Tech enthusiast #15"
+  },
+  {
+    "UserId": "u_016",
+    "Labels": [
+      "cloud",
+      "semiconductor",
+      "ai",
+      "technology"
+    ],
+    "Comment": "Tech enthusiast #16"
+  },
+  {
+    "UserId": "u_017",
+    "Labels": [
+      "cloud",
+      "india",
+      "startup"
+    ],
+    "Comment": "Tech enthusiast #17"
+  },
+  {
+    "UserId": "u_018",
+    "Labels": [
+      "india",
+      "ml",
+      "cloud"
+    ],
+    "Comment": "Tech enthusiast #18"
+  },
+  {
+    "UserId": "u_019",
+    "Labels": [
+      "india",
+      "cloud",
+      "software",
+      "semiconductor",
+      "ml"
+    ],
+    "Comment": "Tech enthusiast #19"
+  },
+  {
+    "UserId": "u_020",
+    "Labels": [
+      "ml",
+      "technology",
+      "semiconductor",
+      "software"
+    ],
+    "Comment": "Tech enthusiast #20"
+  },
+  {
+    "UserId": "u_021",
+    "Labels": [
+      "semiconductor",
+      "ml",
+      "india",
+      "startup",
+      "technology"
+    ],
+    "Comment": "Tech enthusiast #21"
+  },
+  {
+    "UserId": "u_022",
+    "Labels": [
+      "software",
+      "ai",
+      "semiconductor",
+      "cloud"
+    ],
+    "Comment": "Tech enthusiast #22"
+  },
+  {
+    "UserId": "u_023",
+    "Labels": [
+      "startup",
+      "semiconductor",
+      "cloud",
+      "india"
+    ],
+    "Comment": "Tech enthusiast #23"
+  },
+  {
+    "UserId": "u_024",
+    "Labels": [
+      "semiconductor",
+      "india",
+      "ml"
+    ],
+    "Comment": "Tech enthusiast #24"
+  },
+  {
+    "UserId": "u_025",
+    "Labels": [
+      "ml",
+      "software",
+      "ai",
+      "cloud",
+      "startup",
+      "india"
+    ],
+    "Comment": "Tech enthusiast #25"
+  },
+  {
+    "UserId": "u_026",
+    "Labels": [
+      "technology",
+      "startup",
+      "india",
+      "software",
+      "cloud"
+    ],
+    "Comment": "Tech enthusiast #26"
+  },
+  {
+    "UserId": "u_027",
+    "Labels": [
+      "ml",
+      "software",
+      "technology"
+    ],
+    "Comment": "Tech enthusiast #27"
+  },
+  {
+    "UserId": "u_028",
+    "Labels": [
+      "ml",
+      "semiconductor",
+      "cloud"
+    ],
+    "Comment": "Tech enthusiast #28"
+  },
+  {
+    "UserId": "u_029",
+    "Labels": [
+      "startup",
+      "software",
+      "technology",
+      "ml"
+    ],
+    "Comment": "Tech enthusiast #29"
+  },
+  {
+    "UserId": "u_030",
+    "Labels": [
+      "cloud",
+      "india",
+      "ai"
+    ],
+    "Comment": "Tech enthusiast #30"
+  },
+  {
+    "UserId": "u_031",
+    "Labels": [
+      "manufacturing",
+      "global-trade",
+      "export"
+    ],
+    "Comment": "Trade professional #31"
+  },
+  {
+    "UserId": "u_032",
+    "Labels": [
+      "export",
+      "supply-chain",
+      "trade"
+    ],
+    "Comment": "Trade professional #32"
+  },
+  {
+    "UserId": "u_033",
+    "Labels": [
+      "logistics",
+      "b2b",
+      "trade"
+    ],
+    "Comment": "Trade professional #33"
+  },
+  {
+    "UserId": "u_034",
+    "Labels": [
+      "global-trade",
+      "export",
+      "logistics",
+      "b2b",
+      "manufacturing"
+    ],
+    "Comment": "Trade professional #34"
+  },
+  {
+    "UserId": "u_035",
+    "Labels": [
+      "manufacturing",
+      "supply-chain",
+      "logistics"
+    ],
+    "Comment": "Trade professional #35"
+  },
+  {
+    "UserId": "u_036",
+    "Labels": [
+      "export",
+      "supply-chain",
+      "global-trade",
+      "manufacturing"
+    ],
+    "Comment": "Trade professional #36"
+  },
+  {
+    "UserId": "u_037",
+    "Labels": [
+      "logistics",
+      "global-trade",
+      "manufacturing",
+      "b2b"
+    ],
+    "Comment": "Trade professional #37"
+  },
+  {
+    "UserId": "u_038",
+    "Labels": [
+      "b2b",
+      "trade",
+      "export",
+      "supply-chain",
+      "logistics"
+    ],
+    "Comment": "Trade professional #38"
+  },
+  {
+    "UserId": "u_039",
+    "Labels": [
+      "trade",
+      "supply-chain",
+      "logistics",
+      "export"
+    ],
+    "Comment": "Trade professional #39"
+  },
+  {
+    "UserId": "u_040",
+    "Labels": [
+      "export",
+      "trade",
+      "logistics",
+      "supply-chain",
+      "b2b"
+    ],
+    "Comment": "Trade professional #40"
+  },
+  {
+    "UserId": "u_041",
+    "Labels": [
+      "trade",
+      "manufacturing",
+      "global-trade"
+    ],
+    "Comment": "Trade professional #41"
+  },
+  {
+    "UserId": "u_042",
+    "Labels": [
+      "export",
+      "manufacturing",
+      "b2b",
+      "global-trade",
+      "logistics"
+    ],
+    "Comment": "Trade professional #42"
+  },
+  {
+    "UserId": "u_043",
+    "Labels": [
+      "logistics",
+      "supply-chain",
+      "global-trade"
+    ],
+    "Comment": "Trade professional #43"
+  },
+  {
+    "UserId": "u_044",
+    "Labels": [
+      "export",
+      "b2b",
+      "logistics",
+      "global-trade"
+    ],
+    "Comment": "Trade professional #44"
+  },
+  {
+    "UserId": "u_045",
+    "Labels": [
+      "trade",
+      "logistics",
+      "b2b"
+    ],
+    "Comment": "Trade professional #45"
+  },
+  {
+    "UserId": "u_046",
+    "Labels": [
+      "b2b",
+      "global-trade",
+      "logistics",
+      "trade"
+    ],
+    "Comment": "Trade professional #46"
+  },
+  {
+    "UserId": "u_047",
+    "Labels": [
+      "logistics",
+      "global-trade",
+      "trade",
+      "supply-chain",
+      "export"
+    ],
+    "Comment": "Trade professional #47"
+  },
+  {
+    "UserId": "u_048",
+    "Labels": [
+      "manufacturing",
+      "trade",
+      "export",
+      "supply-chain",
+      "logistics"
+    ],
+    "Comment": "Trade professional #48"
+  },
+  {
+    "UserId": "u_049",
+    "Labels": [
+      "b2b",
+      "export",
+      "global-trade",
+      "logistics",
+      "supply-chain"
+    ],
+    "Comment": "Trade professional #49"
+  },
+  {
+    "UserId": "u_050",
+    "Labels": [
+      "export",
+      "trade",
+      "b2b",
+      "logistics"
+    ],
+    "Comment": "Trade professional #50"
+  },
+  {
+    "UserId": "u_051",
+    "Labels": [
+      "fitness",
+      "tennis",
+      "sports"
+    ],
+    "Comment": "Sports fan #51"
+  },
+  {
+    "UserId": "u_052",
+    "Labels": [
+      "ipl",
+      "cricket",
+      "fitness"
+    ],
+    "Comment": "Sports fan #52"
+  },
+  {
+    "UserId": "u_053",
+    "Labels": [
+      "olympics",
+      "ipl",
+      "cricket",
+      "fitness"
+    ],
+    "Comment": "Sports fan #53"
+  },
+  {
+    "UserId": "u_054",
+    "Labels": [
+      "cricket",
+      "olympics",
+      "sports"
+    ],
+    "Comment": "Sports fan #54"
+  },
+  {
+    "UserId": "u_055",
+    "Labels": [
+      "football",
+      "olympics",
+      "ipl",
+      "fitness"
+    ],
+    "Comment": "Sports fan #55"
+  },
+  {
+    "UserId": "u_056",
+    "Labels": [
+      "fitness",
+      "tennis",
+      "olympics",
+      "cricket",
+      "sports"
+    ],
+    "Comment": "Sports fan #56"
+  },
+  {
+    "UserId": "u_057",
+    "Labels": [
+      "cricket",
+      "sports",
+      "tennis",
+      "fitness"
+    ],
+    "Comment": "Sports fan #57"
+  },
+  {
+    "UserId": "u_058",
+    "Labels": [
+      "football",
+      "sports",
+      "fitness",
+      "olympics",
+      "ipl"
+    ],
+    "Comment": "Sports fan #58"
+  },
+  {
+    "UserId": "u_059",
+    "Labels": [
+      "cricket",
+      "sports",
+      "tennis",
+      "fitness",
+      "olympics"
+    ],
+    "Comment": "Sports fan #59"
+  },
+  {
+    "UserId": "u_060",
+    "Labels": [
+      "tennis",
+      "sports",
+      "cricket"
+    ],
+    "Comment": "Sports fan #60"
+  },
+  {
+    "UserId": "u_061",
+    "Labels": [
+      "sports",
+      "tennis",
+      "cricket",
+      "ipl"
+    ],
+    "Comment": "Sports fan #61"
+  },
+  {
+    "UserId": "u_062",
+    "Labels": [
+      "sports",
+      "olympics",
+      "tennis",
+      "football",
+      "cricket"
+    ],
+    "Comment": "Sports fan #62"
+  },
+  {
+    "UserId": "u_063",
+    "Labels": [
+      "fitness",
+      "ipl",
+      "football"
+    ],
+    "Comment": "Sports fan #63"
+  },
+  {
+    "UserId": "u_064",
+    "Labels": [
+      "football",
+      "olympics",
+      "cricket"
+    ],
+    "Comment": "Sports fan #64"
+  },
+  {
+    "UserId": "u_065",
+    "Labels": [
+      "fitness",
+      "football",
+      "olympics",
+      "ipl",
+      "sports"
+    ],
+    "Comment": "Sports fan #65"
+  },
+  {
+    "UserId": "u_066",
+    "Labels": [
+      "markets",
+      "investment",
+      "business"
+    ],
+    "Comment": "Business reader #66"
+  },
+  {
+    "UserId": "u_067",
+    "Labels": [
+      "investment",
+      "finance",
+      "economy"
+    ],
+    "Comment": "Business reader #67"
+  },
+  {
+    "UserId": "u_068",
+    "Labels": [
+      "economy",
+      "business",
+      "finance"
+    ],
+    "Comment": "Business reader #68"
+  },
+  {
+    "UserId": "u_069",
+    "Labels": [
+      "economy",
+      "finance",
+      "markets",
+      "banking"
+    ],
+    "Comment": "Business reader #69"
+  },
+  {
+    "UserId": "u_070",
+    "Labels": [
+      "economy",
+      "investment",
+      "business",
+      "banking",
+      "finance"
+    ],
+    "Comment": "Business reader #70"
+  },
+  {
+    "UserId": "u_071",
+    "Labels": [
+      "business",
+      "finance",
+      "economy",
+      "banking",
+      "markets"
+    ],
+    "Comment": "Business reader #71"
+  },
+  {
+    "UserId": "u_072",
+    "Labels": [
+      "investment",
+      "finance",
+      "economy",
+      "banking",
+      "business"
+    ],
+    "Comment": "Business reader #72"
+  },
+  {
+    "UserId": "u_073",
+    "Labels": [
+      "economy",
+      "finance",
+      "banking",
+      "markets",
+      "investment"
+    ],
+    "Comment": "Business reader #73"
+  },
+  {
+    "UserId": "u_074",
+    "Labels": [
+      "business",
+      "banking",
+      "markets",
+      "finance"
+    ],
+    "Comment": "Business reader #74"
+  },
+  {
+    "UserId": "u_075",
+    "Labels": [
+      "business",
+      "economy",
+      "finance"
+    ],
+    "Comment": "Business reader #75"
+  },
+  {
+    "UserId": "u_076",
+    "Labels": [
+      "economy",
+      "finance",
+      "markets",
+      "banking",
+      "investment"
+    ],
+    "Comment": "Business reader #76"
+  },
+  {
+    "UserId": "u_077",
+    "Labels": [
+      "business",
+      "banking",
+      "investment",
+      "economy",
+      "markets"
+    ],
+    "Comment": "Business reader #77"
+  },
+  {
+    "UserId": "u_078",
+    "Labels": [
+      "business",
+      "economy",
+      "finance",
+      "markets",
+      "banking"
+    ],
+    "Comment": "Business reader #78"
+  },
+  {
+    "UserId": "u_079",
+    "Labels": [
+      "economy",
+      "banking",
+      "business"
+    ],
+    "Comment": "Business reader #79"
+  },
+  {
+    "UserId": "u_080",
+    "Labels": [
+      "finance",
+      "banking",
+      "business",
+      "investment"
+    ],
+    "Comment": "Business reader #80"
+  },
+  {
+    "UserId": "u_081",
+    "Labels": [
+      "food",
+      "travel",
+      "health",
+      "lifestyle"
+    ],
+    "Comment": "Lifestyle reader #81"
+  },
+  {
+    "UserId": "u_082",
+    "Labels": [
+      "health",
+      "food"
+    ],
+    "Comment": "Lifestyle reader #82"
+  },
+  {
+    "UserId": "u_083",
+    "Labels": [
+      "health",
+      "entertainment"
+    ],
+    "Comment": "Lifestyle reader #83"
+  },
+  {
+    "UserId": "u_084",
+    "Labels": [
+      "wellness",
+      "health",
+      "entertainment"
+    ],
+    "Comment": "Lifestyle reader #84"
+  },
+  {
+    "UserId": "u_085",
+    "Labels": [
+      "wellness",
+      "lifestyle"
+    ],
+    "Comment": "Lifestyle reader #85"
+  },
+  {
+    "UserId": "u_086",
+    "Labels": [
+      "lifestyle",
+      "food",
+      "health"
+    ],
+    "Comment": "Lifestyle reader #86"
+  },
+  {
+    "UserId": "u_087",
+    "Labels": [
+      "food",
+      "entertainment"
+    ],
+    "Comment": "Lifestyle reader #87"
+  },
+  {
+    "UserId": "u_088",
+    "Labels": [
+      "health",
+      "wellness",
+      "lifestyle"
+    ],
+    "Comment": "Lifestyle reader #88"
+  },
+  {
+    "UserId": "u_089",
+    "Labels": [
+      "health",
+      "food",
+      "entertainment",
+      "wellness"
+    ],
+    "Comment": "Lifestyle reader #89"
+  },
+  {
+    "UserId": "u_090",
+    "Labels": [
+      "entertainment",
+      "wellness"
+    ],
+    "Comment": "Lifestyle reader #90"
+  },
+  {
+    "UserId": "u_091",
+    "Labels": [
+      "trade",
+      "b2b",
+      "sourcing",
+      "import",
+      "expo"
+    ],
+    "Comment": "Buyer #91"
+  },
+  {
+    "UserId": "u_092",
+    "Labels": [
+      "procurement",
+      "trade",
+      "sourcing",
+      "import"
+    ],
+    "Comment": "Buyer #92"
+  },
+  {
+    "UserId": "u_093",
+    "Labels": [
+      "trade",
+      "b2b",
+      "sourcing"
+    ],
+    "Comment": "Buyer #93"
+  },
+  {
+    "UserId": "u_094",
+    "Labels": [
+      "sourcing",
+      "b2b",
+      "import",
+      "procurement",
+      "trade"
+    ],
+    "Comment": "Buyer #94"
+  },
+  {
+    "UserId": "u_095",
+    "Labels": [
+      "import",
+      "b2b",
+      "expo",
+      "sourcing"
+    ],
+    "Comment": "Buyer #95"
+  },
+  {
+    "UserId": "u_096",
+    "Labels": [
+      "expo",
+      "procurement",
+      "sourcing",
+      "trade",
+      "import"
+    ],
+    "Comment": "Buyer #96"
+  },
+  {
+    "UserId": "u_097",
+    "Labels": [
+      "sourcing",
+      "trade",
+      "expo",
+      "b2b",
+      "import"
+    ],
+    "Comment": "Buyer #97"
+  },
+  {
+    "UserId": "u_098",
+    "Labels": [
+      "sourcing",
+      "trade",
+      "expo",
+      "b2b",
+      "procurement"
+    ],
+    "Comment": "Buyer #98"
+  },
+  {
+    "UserId": "u_099",
+    "Labels": [
+      "b2b",
+      "sourcing",
+      "procurement",
+      "import"
+    ],
+    "Comment": "Buyer #99"
+  },
+  {
+    "UserId": "u_100",
+    "Labels": [
+      "expo",
+      "b2b",
+      "procurement",
+      "sourcing"
+    ],
+    "Comment": "Buyer #100"
+  },
+  {
+    "UserId": "u_ai_reader",
+    "Labels": [
+      "ai",
+      "technology",
+      "startup",
+      "ml",
+      "india"
+    ],
+    "Comment": "AI-focused reader"
+  },
+  {
+    "UserId": "u_trade_reader",
+    "Labels": [
+      "trade",
+      "export",
+      "b2b",
+      "manufacturing"
+    ],
+    "Comment": "Trade & export reader"
+  },
+  {
+    "UserId": "u_sports_reader",
+    "Labels": [
+      "sports",
+      "cricket",
+      "football",
+      "olympics"
+    ],
+    "Comment": "Sports enthusiast"
+  },
+  {
+    "UserId": "buyer_energy_001",
+    "Labels": [
+      "solar",
+      "renewable",
+      "energy",
+      "procurement",
+      "import"
+    ],
+    "Comment": "Energy sector buyer"
+  },
+  {
+    "UserId": "buyer_textile_001",
+    "Labels": [
+      "textile",
+      "fashion",
+      "procurement",
+      "import"
+    ],
+    "Comment": "Textile buyer"
+  },
+  {
+    "UserId": "buyer_energy_009",
+    "Labels": [
+      "solar",
+      "wind",
+      "energy",
+      "b2b"
+    ],
+    "Comment": "Renewable energy buyer"
+  },
+  {
+    "UserId": "buyer_import_014",
+    "Labels": [
+      "import",
+      "chemicals",
+      "procurement"
+    ],
+    "Comment": "Chemicals importer"
+  }
+]

@@ -1,0 +1,32 @@
+[database]
+data_store = "postgres://gorse:gorse_pass@postgres:5432/gorse?sslmode=disable"
+cache_store = "redis://redis:6379"
+
+[master]
+host = "0.0.0.0"
+port = 8086
+http_host = "0.0.0.0"
+http_port = 8088
+n_jobs = 2
+
+[server]
+host = "0.0.0.0"
+port = 8087
+default_n = 10
+
+[recommend]
+popular_window = 180
+popular_feedback_types = ["read", "like", "share", "bookmark", "view", "click"]
+user_neighbor_type = "similar"
+item_neighbor_type = "similar"
+enable_item_based_split = true
+enable_user_based_split = true
+
+[offline]
+check_recommend_period = 1
+score_aggregation = "merge"
+explore_recommend = {random = 0.1}
+
+[online]
+fallback_recommend = ["popular", "latest"]
+num_feedback_fallback_item_based = 10

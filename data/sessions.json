@@ -1,0 +1,223 @@
+[
+  {
+    "ItemId": "session_001",
+    "Labels": [
+      "ai",
+      "technology",
+      "manufacturing",
+      "startup"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "AI-Driven Manufacturing: Smart Factory Revolution",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_002",
+    "Labels": [
+      "solar",
+      "renewable",
+      "energy",
+      "export",
+      "policy"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Green Energy Export: Policy & Incentive Masterclass",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_003",
+    "Labels": [
+      "textile",
+      "export",
+      "b2b",
+      "fashion",
+      "india"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Indian Textile Exports: Navigating Global Markets in 2026",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_004",
+    "Labels": [
+      "trade",
+      "export",
+      "policy",
+      "b2b",
+      "india"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "India-EU Free Trade Agreement: Opportunities for Exporters",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_005",
+    "Labels": [
+      "semiconductor",
+      "technology",
+      "manufacturing",
+      "ai"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "India Semiconductor Mission: Ecosystem Deep Dive",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_006",
+    "Labels": [
+      "startup",
+      "technology",
+      "india",
+      "ai",
+      "investment"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Deep Tech Startups: Pitching to Global Investors",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_007",
+    "Labels": [
+      "chemicals",
+      "export",
+      "manufacturing",
+      "b2b"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Specialty Chemicals: Capturing Post-China Shift Demand",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_008",
+    "Labels": [
+      "sports",
+      "entertainment",
+      "lifestyle",
+      "business"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Sports Business Summit: Media Rights, Sponsorship & Monetization",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_009",
+    "Labels": [
+      "logistics",
+      "trade",
+      "export",
+      "b2b",
+      "india"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Supply Chain Resilience: Building India-Centric Networks",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_010",
+    "Labels": [
+      "food",
+      "export",
+      "b2b",
+      "india",
+      "lifestyle"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Agri-Food Exports: Quality Standards & Market Access",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_011",
+    "Labels": [
+      "technology",
+      "ai",
+      "startup",
+      "semiconductor",
+      "investment"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Emerging Tech Showcase: AI, IoT & Edge Computing",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_012",
+    "Labels": [
+      "entertainment",
+      "sports",
+      "media",
+      "lifestyle",
+      "startup"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Creator Economy & Sports Media: New Revenue Models",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_013",
+    "Labels": [
+      "manufacturing",
+      "b2b",
+      "export",
+      "trade",
+      "policy"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "PLI Schemes 2.0: Maximising Production-Linked Incentives",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_014",
+    "Labels": [
+      "fashion",
+      "textile",
+      "lifestyle",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "Sustainable Fashion: Circular Economy & Green Certifications",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "session_015",
+    "Labels": [
+      "ai",
+      "technology",
+      "trade",
+      "b2b",
+      "startup"
+    ],
+    "Categories": [
+      "session"
+    ],
+    "Comment": "AI in Trade Finance: Automating Letters of Credit & Compliance",
+    "IsHidden": false
+  }
+]

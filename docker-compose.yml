@@ -1,0 +1,126 @@
+version: "3.8"
+
+services:
+  redis:
+    image: redis/redis-stack-server:latest
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  postgres:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: gorse
+      POSTGRES_PASSWORD: gorse_pass
+      POSTGRES_DB: gorse
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  gorse-master:
+    image: zhenghaoz/gorse-master:latest
+    restart: unless-stopped
+    ports:
+      - "8086:8086"
+      - "8088:8088"
+    environment:
+      GORSE_CACHE_STORE: redis://redis:6379
+      GORSE_DATA_STORE: postgres://gorse:gorse_pass@postgres:5432/gorse?sslmode=disable
+    command: >
+      -c /etc/gorse/config.toml
+      --cache-path /var/lib/gorse/master
+      --log-path /var/log/gorse/master.log
+    volumes:
+      - gorse_master_data:/var/lib/gorse
+      - gorse_master_log:/var/log/gorse
+      - ./gorse.toml:/etc/gorse/config.toml:ro
+    depends_on:
+      - redis
+      - postgres
+
+  gorse-server:
+    image: zhenghaoz/gorse-server:latest
+    restart: unless-stopped
+    ports:
+      - "8087:8087"
+    environment:
+      GORSE_CACHE_STORE: redis://redis:6379
+      GORSE_DATA_STORE: postgres://gorse:gorse_pass@postgres:5432/gorse?sslmode=disable
+    command: >
+      --master-host gorse-master
+      --master-port 8086
+      --http-host 0.0.0.0
+      --http-port 8087
+      --log-path /var/log/gorse/server.log
+    volumes:
+      - gorse_server_log:/var/log/gorse
+    depends_on:
+      - gorse-master
+
+  gorse-worker:
+    image: zhenghaoz/gorse-worker:latest
+    restart: unless-stopped
+    environment:
+      GORSE_CACHE_STORE: redis://redis:6379
+      GORSE_DATA_STORE: postgres://gorse:gorse_pass@postgres:5432/gorse?sslmode=disable
+    command: >
+      --master-host gorse-master
+      --master-port 8086
+      --log-path /var/log/gorse/worker.log
+      --cache-path /var/lib/gorse/worker
+      --jobs 4
+    volumes:
+      - gorse_worker_data:/var/lib/gorse
+      - gorse_worker_log:/var/log/gorse
+    depends_on:
+      - gorse-master
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      GORSE_API_URL: http://gorse-server:8087
+      GORSE_DASHBOARD_URL: http://gorse-master:8088
+      GORSE_API_KEY: recolab_api_key_2026
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: gorse
+      POSTGRES_PASSWORD: gorse_pass
+      POSTGRES_DB: gorse
+      REDIS_URL: redis://redis:6379
+      BACKEND_PORT: 3001
+      BACKEND_HOST: 0.0.0.0
+      TENANT_ID: recolab_demo
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - gorse-server
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://backend:3001
+    depends_on:
+      - backend
+
+volumes:
+  redis_data:
+  postgres_data:
+  gorse_master_data:
+  gorse_master_log:
+  gorse_server_log:
+  gorse_worker_data:
+  gorse_worker_log:
