@@ -1,0 +1,6 @@
+.gocache
+.gotmp
+bin
+vendor
+*.test
+

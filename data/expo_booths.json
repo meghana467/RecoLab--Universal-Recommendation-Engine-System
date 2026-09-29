@@ -1,0 +1,712 @@
+[
+  {
+    "ItemId": "booth_001",
+    "Labels": [
+      "solar",
+      "renewable",
+      "energy",
+      "export",
+      "manufacturing"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "SunRise Solar \u2013 Photovoltaic Modules Manufacturer",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_002",
+    "Labels": [
+      "solar",
+      "renewable",
+      "energy",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "GreenWatt Energy Solutions \u2013 Off-grid Solar Systems",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_003",
+    "Labels": [
+      "solar",
+      "renewable",
+      "energy",
+      "india",
+      "tata"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "Tata Power Solar \u2013 Large Scale Solar Projects",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_004",
+    "Labels": [
+      "wind",
+      "renewable",
+      "energy",
+      "manufacturing"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "WindForce India \u2013 Wind Turbine Components",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_005",
+    "Labels": [
+      "hydrogen",
+      "renewable",
+      "energy",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "HydroGen Pro \u2013 Green Hydrogen Production",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_006",
+    "Labels": [
+      "energy",
+      "technology",
+      "smart-grid",
+      "storage"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "EnergoLink \u2013 Smart Grid & Energy Storage",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_007",
+    "Labels": [
+      "solar",
+      "trade",
+      "b2b",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "PV Module Hub \u2013 Solar Panel Trading Platform",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_008",
+    "Labels": [
+      "biofuel",
+      "renewable",
+      "agriculture",
+      "environment"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "BioFuel India \u2013 Agricultural Waste to Biofuel",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_009",
+    "Labels": [
+      "solar",
+      "finance",
+      "renewable",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "SolarBank Finance \u2013 Solar Project Financing",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_010",
+    "Labels": [
+      "solar",
+      "technology",
+      "research",
+      "renewable"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "RenewTech Labs \u2013 R&D Solar Efficiency",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_011",
+    "Labels": [
+      "textile",
+      "cotton",
+      "export",
+      "india",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "WeaveIndia Textiles \u2013 Premium Cotton Fabrics",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_012",
+    "Labels": [
+      "textile",
+      "silk",
+      "export",
+      "india",
+      "handloom"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "SilkRoute Exports \u2013 Handloom & Silk",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_013",
+    "Labels": [
+      "textile",
+      "technical",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "Texport Industries \u2013 Technical Textiles",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_014",
+    "Labels": [
+      "textile",
+      "embroidery",
+      "export",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "JewelThread \u2013 Zari & Embroidery Works",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_015",
+    "Labels": [
+      "textile",
+      "knitwear",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "KnitWell Hosiery \u2013 Knitwear Manufacturer",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_016",
+    "Labels": [
+      "textile",
+      "denim",
+      "manufacturing",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "Arvind Mills \u2013 Denim & Apparel Fabrics",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_017",
+    "Labels": [
+      "textile",
+      "nonwoven",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "FiberFlex Nonwovens \u2013 Nonwoven Fabric Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_018",
+    "Labels": [
+      "textile",
+      "recycled",
+      "environment",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "EcoYarn India \u2013 Recycled Yarn Manufacturer",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_019",
+    "Labels": [
+      "textile",
+      "garment",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "BoldPrint Garments \u2013 Bulk Garment Supplier",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_020",
+    "Labels": [
+      "textile",
+      "cotton",
+      "organic",
+      "export",
+      "trade"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "CottonKing Exports \u2013 Organic Cotton Trader",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_021",
+    "Labels": [
+      "chemicals",
+      "export",
+      "b2b",
+      "manufacturing"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "Chemix India \u2013 Industrial Chemicals Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_022",
+    "Labels": [
+      "chemicals",
+      "pharma",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "PharmaChem Solutions \u2013 API & Intermediates",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_023",
+    "Labels": [
+      "chemicals",
+      "agriculture",
+      "export",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "AgroStar Chemicals \u2013 Crop Protection Chemicals",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_024",
+    "Labels": [
+      "chemicals",
+      "specialty",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "CleanChem Coatings \u2013 Specialty Coatings",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_025",
+    "Labels": [
+      "chemicals",
+      "textile",
+      "export",
+      "manufacturing"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "DyeStar India \u2013 Textile Dyes & Auxiliaries",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_026",
+    "Labels": [
+      "chemicals",
+      "industrial",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "PetroBase Lubricants \u2013 Industrial Lubricants",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_027",
+    "Labels": [
+      "chemicals",
+      "technology",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "NanoTech Pigments \u2013 Advanced Pigment Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_028",
+    "Labels": [
+      "chemicals",
+      "biotech",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "BioSynth India \u2013 Biochemicals Producer",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_029",
+    "Labels": [
+      "chemicals",
+      "food",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "FoodChem Additives \u2013 Food Grade Ingredients",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_030",
+    "Labels": [
+      "chemicals",
+      "plastics",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "PolymersPlus \u2013 Engineering Plastics & Polymers",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_031",
+    "Labels": [
+      "food",
+      "spices",
+      "export",
+      "india",
+      "trade"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "SpiceTrade India \u2013 Premium Spice Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_032",
+    "Labels": [
+      "food",
+      "rice",
+      "export",
+      "india",
+      "trade"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "GrainLink \u2013 Basmati Rice & Cereals Export",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_033",
+    "Labels": [
+      "food",
+      "processed",
+      "export",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "FreshPack \u2013 Processed Fruits & Vegetables",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_034",
+    "Labels": [
+      "food",
+      "seafood",
+      "export",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "AquaHarvest \u2013 Marine Products Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_035",
+    "Labels": [
+      "food",
+      "dairy",
+      "manufacturing",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "DairyGlobe \u2013 Dairy Products Manufacturer",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_036",
+    "Labels": [
+      "food",
+      "tea",
+      "export",
+      "india",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "TeaFirst \u2013 Assam & Darjeeling Tea Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_037",
+    "Labels": [
+      "food",
+      "oil",
+      "export",
+      "india",
+      "organic"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "OilPress India \u2013 Cold-Pressed Oil Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_038",
+    "Labels": [
+      "food",
+      "organic",
+      "export",
+      "india",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "OrganicRoots \u2013 Certified Organic Food Exporter",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_039",
+    "Labels": [
+      "food",
+      "health",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "NutriPack \u2013 Nutraceuticals & Health Foods",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_040",
+    "Labels": [
+      "food",
+      "beverages",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "BeverageBridge \u2013 Ready-to-Drink Beverages",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_041",
+    "Labels": [
+      "technology",
+      "manufacturing",
+      "export",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "TechAxis \u2013 Precision Engineering Parts",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_042",
+    "Labels": [
+      "technology",
+      "software",
+      "b2b",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "SoftGlobal \u2013 Custom Software Solutions",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_043",
+    "Labels": [
+      "technology",
+      "ai",
+      "b2b",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "AI Foundry India \u2013 AI Services for Enterprises",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_044",
+    "Labels": [
+      "technology",
+      "security",
+      "b2b",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "CyberShield India \u2013 Cybersecurity Services",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_045",
+    "Labels": [
+      "technology",
+      "iot",
+      "manufacturing",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "IoTBridge \u2013 Industrial IoT Solutions",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_046",
+    "Labels": [
+      "technology",
+      "robotics",
+      "manufacturing",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "AutoBot Systems \u2013 Factory Automation",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_047",
+    "Labels": [
+      "technology",
+      "education",
+      "b2b",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "EduTech Global \u2013 Online Learning Platforms",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_048",
+    "Labels": [
+      "technology",
+      "health",
+      "b2b",
+      "india"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "HealthTech India \u2013 Digital Health Solutions",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_049",
+    "Labels": [
+      "technology",
+      "cloud",
+      "b2b",
+      "export"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "CloudNine Services \u2013 Managed Cloud Solutions",
+    "IsHidden": false
+  },
+  {
+    "ItemId": "booth_050",
+    "Labels": [
+      "technology",
+      "blockchain",
+      "supply-chain",
+      "b2b"
+    ],
+    "Categories": [
+      "expo_booth"
+    ],
+    "Comment": "BlockChainX \u2013 Supply Chain Traceability",
+    "IsHidden": false
+  }
+]

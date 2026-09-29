@@ -1,0 +1,47 @@
+[database]
+cache_store = "redis://redis:6379"
+data_store = "postgres://gorse:gorse_pass@postgres:5432/gorse?sslmode=disable"
+
+[master]
+http_port = 8088
+grpc_port = 8086
+dashboard_user_name = "admin"
+dashboard_password = "password"
+
+[server]
+http_port = 8087
+api_key = "recolab_api_key_2026"
+
+[recommend]
+# How often Gorse runs batch recommendation jobs
+popular_window = "360h"    # 15 days for trending
+fit_period = "30m"       # Retrain models every 30 min after new feedback
+
+[recommend.data_source]
+# Positive signals — strong engagement across all scenarios
+positive_feedback_types = ["cart", "purchase", "click", "like", "bookmark", "share", "inquiry", "meeting_request"]
+# Read signals — user saw it but weak engagement (used to suppress re-showing)
+read_feedback_types = ["view", "read"]
+# Negative signals
+negative_feedback_types = ["hide"]
+
+# item_ttl = 0 means items never expire globally.
+# Retailrocket products have no natural expiry.
+# MIND news freshness is handled per-query in the backend (label/category filtering),
+# not by expiring items in Gorse, to avoid expiring Retailrocket items simultaneously.
+positive_feedback_ttl = 0
+item_ttl = 0
+
+[recommend.collaborative]
+model_fit_period = "30m"
+model_search_period = "24h"
+model_search_trials = 10
+enable_index = true
+index_recall = 0.9
+index_fit_period = "1h"
+
+[recommend.replacement]
+enable_item_replacement = false
+
+[tracing]
+enable_tracing = false
